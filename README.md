@@ -10,3 +10,8 @@ In this tutorial, we will go through the process of changing a users' password d
 - Windows 11 Client
 - Active Directory
 
+<h2>Password Reset Steps</h2>
+
+- Password lockout
+- User navigation through admin in AD
+- 
