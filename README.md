@@ -14,4 +14,8 @@ In this tutorial, we will go through the process of changing a users' password d
 
 - Password lockout
 - User navigation through admin in AD
-- 
+- Working the issue
+- Resolution
+
+<h2>Password lockout</h2>
+
