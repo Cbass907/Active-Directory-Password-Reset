@@ -19,4 +19,4 @@ In this tutorial, we will go through the process of changing a users' password d
 
 <h2>Password lockout</h2>
 
-![Password lockout](https://github.com/Cbass907/Active-Directory-Password-Reset/blob/main/VirtualBox_Windows111_15_03_2026_01_21_31.png?raw=true)
+<img src="https://github.com/Cbass907/Active-Directory-Password-Reset/blob/main/VirtualBox_Windows111_15_03_2026_01_21_31.png?raw=true.png" width="600" />
