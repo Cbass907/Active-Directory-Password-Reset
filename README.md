@@ -13,10 +13,11 @@ In this tutorial, we will go through the process of changing a users' password d
 <h2>Password Reset Steps</h2>
 
 - Password lockout
-- User navigation through admin in AD
+- User navigation through Active Directory
 - Working the issue
 - Resolution
 
 <h2>Password lockout</h2>
 
 <img src="https://github.com/Cbass907/Active-Directory-Password-Reset/blob/main/VirtualBox_Windows111_15_03_2026_01_21_31.png?raw=true.png" width="600" />
+In this scenario, Jim Watkins, a fictional user in an enterprise environment, had been locked out of his account due to repeated failed login attempts. He contacts help desk support, and explains the issue.
