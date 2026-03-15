@@ -19,3 +19,4 @@ In this tutorial, we will go through the process of changing a users' password d
 
 <h2>Password lockout</h2>
 
+![Password lockout](
