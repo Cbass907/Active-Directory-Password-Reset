@@ -25,3 +25,4 @@ In this scenario, Jim Watkins, a fictional user in an enterprise environment, ha
 <h2>User navigation through Active Directory</h2>
 
 <img src="https://github.com/Cbass907/Active-Directory-Password-Reset/blob/main/VirtualBox_Windowsserver10_15_03_2026_01_15_43.png?raw=true.png" width="600" />
+The help desk technician then proceeds to active directory through the domain of the company. Specifically, through active directory users and computers.
