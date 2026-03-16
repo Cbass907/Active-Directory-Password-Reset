@@ -33,6 +33,9 @@ Under the Lab.local tree, he then right-clicks on the accounts folder and clicks
 <h2>Working the issue</h2>
 
 <img src="https://github.com/Cbass907/Active-Directory-Password-Reset/blob/main/VirtualBox_Windowsserver10_15_03_2026_01_25_33.png?raw=true.png" width="600" />
-He then right-clicks on Jims' account and chooses "reset password".
+After confirming that the user indeed actually forgot his password, and didn't just actually misclick several times (if that were the case, he would unlock the account a different way), he then right-clicks on Jims' account and chooses "reset password".
 
 <img src="https://github.com/Cbass907/Active-Directory-Password-Reset/blob/main/VirtualBox_Windowsserver10_15_03_2026_01_30_17.png?raw=true.png" width="600" />
+A temporary password is chosen for the user, and makes sure that both boxes are check for that the users' account is unlocked, and that the user must change his password on next login (this is required, because the help desk technician knowing a users' password is a security violation).
+<img src="https://github.com/Cbass907/Active-Directory-Password-Reset/blob/main/VirtualBox_Windowsserver10_15_03_2026_01_31_10.png?raw=true.png" width="600" />
+The password change is successful.
