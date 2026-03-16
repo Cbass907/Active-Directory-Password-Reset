@@ -35,3 +35,4 @@ Under the Lab.local tree, he then right-clicks on the accounts folder and clicks
 <img src="https://github.com/Cbass907/Active-Directory-Password-Reset/blob/main/VirtualBox_Windowsserver10_15_03_2026_01_25_33.png?raw=true.png" width="600" />
 He then right-clicks on Jims' account and chooses "reset password".
 
+<img src="https://github.com/Cbass907/Active-Directory-Password-Reset/blob/main/VirtualBox_Windowsserver10_15_03_2026_01_30_17.png?raw=true.png" width="600" />
