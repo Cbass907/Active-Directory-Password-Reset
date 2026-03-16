@@ -39,3 +39,6 @@ After confirming that the user indeed actually forgot his password, and didn't j
 A temporary password is chosen for the user, and makes sure that both boxes are check for that the users' account is unlocked, and that the user must change his password on next login (this is required, because the help desk technician knowing a users' password is a security violation).
 <img src="https://github.com/Cbass907/Active-Directory-Password-Reset/blob/main/VirtualBox_Windowsserver10_15_03_2026_01_31_10.png?raw=true.png" width="600" />
 The password change is successful.
+
+<h2>Resolution</h2>
+
