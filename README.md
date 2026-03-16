@@ -28,4 +28,4 @@ In this scenario, Jim Watkins, a fictional user in an enterprise environment, ha
 The help desk technician then proceeds to active directory through the domain of the company. Specifically, through active directory users and computers.
 
 <img src="https://github.com/Cbass907/Active-Directory-Password-Reset/blob/main/VirtualBox_Windowsserver10_15_03_2026_01_24_21.png?raw=true.png" width="600" />
-Under the Lab.local tree, he then right clicks on the accounts folder and right-clicks find (in an enterprise situation, this would be much faster than scrolling through all the users, assuming there could be hundreds if not thousands), and searches for Jim Watkins.
+Under the Lab.local tree, he then right-clicks on the accounts folder and clicks find (in an enterprise situation, this would be much faster than scrolling through all the users, assuming there could be hundreds if not thousands), and searches for Jim Watkins.
