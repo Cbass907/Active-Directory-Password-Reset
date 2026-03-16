@@ -42,3 +42,4 @@ The password change is successful.
 
 <h2>Resolution</h2>
 
+<img src="https://github.com/Cbass907/Active-Directory-Password-Reset/blob/main/VirtualBox_Windows111_15_03_2026_01_32_07.png?raw=true.png" width="600" />
