@@ -46,3 +46,5 @@ The password change is successful.
 The user then tries to log in again, getting the prompt to change his password.
 <img src="https://github.com/Cbass907/Active-Directory-Password-Reset/blob/main/VirtualBox_Windows111_15_03_2026_01_32_49.png?raw=true.png" width="600" />
 A new password is chosen.
+<img src="https://github.com/Cbass907/Active-Directory-Password-Reset/blob/main/VirtualBox_Windows111_15_03_2026_01_33_46.png?raw=true.png" width="600" />
+The user was able to log in successfully, thus concluding this tutorial.
